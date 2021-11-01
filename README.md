@@ -5,6 +5,8 @@
 ## Descripción del proyecto
 Este es un pequeño ejemplo de la implementación de componentes usando la biblioteca de React y conceptos como State, SetState y Refactor. También se ha dado algunos toques visuales menores haciendo uso de Bootstrap
 
+![image](https://user-images.githubusercontent.com/87394787/139752280-47aa52eb-adb6-4cc5-9c80-12a8eb16133e.png)
+
 
 ## MIT License
 
