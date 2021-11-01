@@ -17,14 +17,14 @@ code {
 }
 
 .todo-list {
-    background: #e8e8e8;
+    background: #c20808;
     border-radius: 4px;
     padding: 5px;
     max-width: 800px;
 }
 
 .todo {
-    background: #fff;
+    background: rgb(196, 191, 191);
     box-shadow: 1px 1px 1px rgba(0,0,0,0.15);
     padding: 3px 10px;
     font-size: 24px;
@@ -36,6 +36,7 @@ code {
 }
 
 .input {
+    background: #5bff63;
     width: 100%;
     box-sizing: border-box;
     border: 0;
